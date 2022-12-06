@@ -5,7 +5,7 @@ The folder Shallow Network Tests performs an initial experiment on the results o
 
 The folder Deep Network Tests extends the experiment to a deep network setting. The linear layer networks are extended to contain both 5 and 10 layers. The convolution blocks in the CNN are held constant, but the linear portion of the network is extended to contain both 5 and 10 layers. 
 
-The folder Weight Initialization Methods experiments with how initializing weights differently impacts the two dynamic normalization procedures of weight and batch normalization. Four different intialization methods were used. One was the standard sampling from the uniform distribution between [-1,1], one was sampling from the standard Gaussian distribution centered at 0 with standard deviation 1, one was sampling from the Xavier uniform distribution proposed in [3], and the final method was a Gaussian distribution centered at 0 with adjusted variance proposed in [4].
+The folder Weight Initialization Methods experiments with how initializing weights differently impacts the two dynamic normalization procedures of weight and batch normalization. Four different intialization methods were used. One was the standard sampling from the uniform distribution between [-1,1], one was sampling from the standard Gaussian distribution centered at 0 with standard deviation 1, one was sampling from the Xavier uniform distribution proposed in [3], and the final method was a Gaussian distribution centered at 0 with adjusted variance proposed in [4]. The same 5 layer networks from the folder Deep Network Tests were used to perform this experiment on both MNIST and CIFAR10.
 
 The results of the experiments can be viewed in the attached final report.
 
