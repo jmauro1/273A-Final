@@ -1,5 +1,5 @@
 # 273A-Final
-This repository contains the final project of Annie Lu, Jack Mauro and Tracy Yu for UCLA Mathematics Math 273A. 
+This repository contains the final project of Annie Lu, Jack Mauro, and Tracy Yu for UCLA Mathematics Math 273A. 
 
 The folder Shallow Network Tests performs an initial experiment on the results of batch normalization and weight normalization introduced in [1] and [2]. A network with 2 linear networks is used to perform classification on the MNIST dataset, and a 6 layer Convolutional Neural Network with 2 linear layers is used to perform classification on the CIFAR10 dataset. The CNN is modeled off of [2], but is modified slightly due to memory constraints. 
 
