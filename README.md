@@ -13,6 +13,9 @@ Questions can be directed to jmauro at math dot ucla dot edu.
 
 [1] S. Ioffe and C. Szegedy, “Batch normalization: Accelerating deep network training by reducing internal
 covariate shift,” CoRR, vol. abs/1502.03167, 2015.
+
 [2] T. Salimans and D. P. Kingma, “Weight normalization: A simple reparameterization to accelerate training of deep neural networks,” CoRR, vol. abs/1602.07868, 2016.
+
 [3] X. Glorot and Y. Bengio, “Understanding the difficulty of training deep feedforward neural networks,” in Proceedings of the Thirteenth International Conference on Artificial Intelligence and Statistics (Y. W. Teh and M. Titterington, eds.), vol. 9 of Proceedings of Machine Learning Research, (Chia Laguna Resort, Sardinia, Italy), pp. 249–256, PMLR, 13–15 May 2010.
+
 [4] K. He, X. Zhang, S. Ren, and J. Sun, “Delving deep into rectifiers: Surpassing human-level performance on imagenet classification,” CoRR, vol. abs/1502.01852, 2015.
